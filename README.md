@@ -34,7 +34,11 @@ I work as a sustainability consultant helping companies achieve the best possibl
 | Defence | UK |
 | Transport | UK |
 
-> *Client names are kept confidential. Anonymised case study documents are available in this repository.*
+**Current employer:**
+
+I currently carry out this consultancy work through **[EcoVerify](https://www.ecoverify.co.uk/)** — a UK-based sustainability consultancy specialising in EcoVadis optimisation and ESG compliance support for businesses across multiple sectors.
+
+> *End client names are kept confidential. Anonymised case study documents are available in this repository.*
 
 ---
 
@@ -101,4 +105,4 @@ I calculate greenhouse gas emissions for clients as part of their EcoVadis envir
 
 ## 📫 Contact
 
-Interested in my sustainability work or consultancy services? Connect via [LinkedIn](https://www.linkedin.com/in/yourprofile) or visit the main [GitHub profile](https://github.com/Sufyan313314).
+Interested in my sustainability work or consultancy services? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan/) or visit the main [GitHub profile](https://github.com/Sufyan313314).
