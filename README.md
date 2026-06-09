@@ -66,19 +66,31 @@ Co-founded with my brother while finishing school, this business has grown from 
 
 🔗 Live website: [evchargers.com.pk](https://evchargers.com.pk)
 
+📸 Website screenshot: [`Web ss.png`](Web%20ss.png)
+
 ---
 
 ## Policies, Handbooks & Training
 
-As part of my EcoVadis consultancy work, I create and deliver the following documentation and training for client companies:
+As part of my EcoVadis consultancy work, I create and deliver the following documentation and training for client companies. Samples of each are available in this repository:
 
-- **Labour & Human Rights Policy** — covering fair wages, working hours, anti-forced labour, and employee rights
-- **Energy Conservation Policy** — aligned with ISO 50001 principles and EcoVadis Environment theme requirements
-- **Anti-Bribery & Corruption Policy** — compliant with the UK Bribery Act 2010
-- **Employee Code of Conduct Handbook**
-- **Sustainability Training Modules** — delivered to staff at various levels within client organisations
+**Policies:**
 
-> Anonymised samples of these documents are included in this repository for reference.
+- 📄 **Anti-Corruption & Fraud Policy** — covers bribery prevention, fraud controls, and compliance with the UK Bribery Act 2010 → [`Corruption & Fraud Policy 2025 Changed.pdf`](Corruption%20%26%20Fraud%20Policy%202025%20Changed.pdf)
+- 📄 **Environmental Policy** — outlines commitments to reducing environmental impact, energy use, and waste across client operations → [`Environmental Policy 2025 Changed.pdf`](Environmental%20Policy%202025%20Changed.pdf)
+- 📄 **Information Security Policy** — covers data protection, IT security, and compliance obligations → [`Information Security Policy Changed.pdf`](Information%20Security%20Policy%20Changed.pdf)
+
+**Training Documents:**
+
+- 📄 **Energy Training** — staff training material on energy conservation practices aligned with EcoVadis Environment theme requirements → [`Energy Training.pdf`](Energy%20Training.pdf)
+- 📄 **Health & Safety Training** — workplace health and safety training delivered to client staff → [`Health and Safety Training.pdf`](Health%20and%20Safety%20Training.pdf)
+
+**Sustainability Reports:**
+
+- 📄 **Sustainability Report** — full sustainability report prepared as part of EcoVadis evidence submission → [`Sustainability Report.pdf`](Sustainability%20Report.pdf)
+- 📄 **SUS Report** — supplementary sustainability summary report → [`SUS Report.pdf`](SUS%20Report.pdf)
+
+> All documents have been anonymised. Client names and identifying information have been removed.
 
 ---
 
