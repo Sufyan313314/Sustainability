@@ -10,6 +10,7 @@ This repository showcases my work across three sustainability areas: **EcoVadis 
 - [EV Charger Business — evchargers.com.pk](#ev-charger-business)
 - [Policies, Handbooks & Training](#policies-handbooks--training)
 - [GHG Emissions Calculations](#ghg-emissions-calculations)
+- [University Placement Portfolio](#university-placement-portfolio)
 - [Tools & Skills](#tools--skills)
 
 ---
@@ -109,6 +110,22 @@ I calculate greenhouse gas emissions for clients as part of their EcoVadis envir
 
 ---
 
+## University Placement Portfolio
+
+📄 **[Sufyan Khan Portfolio Course work.docx](Sufyan%20Khan%20Portfolio%20Course%20work.docx)**
+
+This document is my official placement portfolio submitted as part of my **BSc (Hons) Accounting and Finance** degree at **De Montfort University**. It covers my full year as a Sustainability Consultant at EcoVerify (June 2025 – June 2026) and includes:
+
+- **Organisational analysis** of EcoVerify using Schein's Three-Level Culture Model and Cameron & Quinn's Competing Values Framework — examining how the company's structure, culture and values drive its consultancy approach
+- **PESTEL analysis** of the sustainability consultancy market — covering political, economic, social, technological, environmental and legal factors shaping EcoVerify's business environment, including UK Sustainability Reporting Standards, AI adoption in professional services, and Digital Product Passport regulation
+- **Case study** on how I independently built an AI-assisted Digital Product Passport (DPP) prototype for a US client — using Claude AI, HTML and Google Apps Script with no prior coding background, delivered within a two-week deadline
+- **Stakeholder analysis** of the DPP project using Freeman's framework, Agile project management principles, and the Technology Acceptance Model (TAM)
+- **Placement reflections**, quarterly diary entries, skills assessments, and personal development priorities covering 15+ client organisations across the UK, USA and Europe
+
+> This portfolio demonstrates applied academic thinking combined with real-world sustainability consultancy experience, including independent project delivery, client management, policy development, and technology-enabled service design.
+
+---
+
 ## Tools & Skills
 
 `EcoVadis Platform` `GHG Scope 1 & 3 Calculations` `UK Government Conversion Factors` `ESG Policy Writing` `Labour & Human Rights` `Anti-Bribery & Corruption` `Energy Conservation` `ISO 50001` `UK Bribery Act 2010` `EV Charging Infrastructure` `Rolec` `Wallbox` `Solinteg` `WordPress` `Residential & Commercial EV Installation`
@@ -117,4 +134,4 @@ I calculate greenhouse gas emissions for clients as part of their EcoVadis envir
 
 ## 📫 Contact
 
-Interested in my sustainability work or consultancy services? Connect via [LinkedIn](https://www.linkedin.com/in/sufyan-ali-khan/) or visit the main [GitHub profile](https://github.com/Sufyan313314).
+Interested in my sustainability work or consultancy services? Connect via [LinkedIn](https://www.linkedin.com/in/yourprofile) or visit the main [GitHub profile](https://github.com/Sufyan313314).
